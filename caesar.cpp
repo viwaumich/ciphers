@@ -1,15 +1,7 @@
 /*
  * caesar.cpp
- * Project UID e98fd45ccce9d7195e89e6171a5451f2
  *
- * Andres Ayerbe, Vicky Wang
- * ayerbea, viwa
- *
- * EECS 183: Project 3
- * Winter 2022
- *
- * This file includes the necessary functions specific to the caesar cipher.
- */
+
 
 #include "caesar.h"
 #include <iostream>
